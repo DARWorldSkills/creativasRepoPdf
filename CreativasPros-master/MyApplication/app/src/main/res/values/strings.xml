@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">Horario Sena</string>
+    <string name="ctpi">CTPI</string>
+    <string name="centrotele">Centro de Teleinformatica y Produccion Industrial</string>
+    <string name="btnlogin">Login</string>
+    <string name="btntextview">Informacion del programa</string>
+    <string name="area">Área</string>
+    <string name="indCrea">Industrias Creativas</string>
+    <string name="ambiente">Ambiente de formación</string>
+    <string name="numero">2</string>
+    <string name="jornadaM">Jornada Mañana</string>
+    <string name="horarioM">Horario 7 - 13</string>
+    <string name="Programa">Programa</string>
+    <string name="Pro1">Desarrollo de Videojuegos</string>
+    <string name="jornadaT">Jornada Tarde</string>
+    <string name="HorarioT">Horario 13 - 19</string>
+    <string name="pro2">Animación 3D</string>
+    <string name="jornadaN">Jornada Noche</string>
+    <string name="HorarioN">Horario 19 - 22</string>
+    <string name="pro3">Especialización en Contenidos Animados </string>
+    <string name="Ficha">Ficha: </string>
+    <string name="tecnologo">Tecnólogo </string>
+    <string name="Lider">Instructor Lider </string>
+    <string name="textPlay">El desarrollo se lleva a cabo por un desarrollador de videojuegos,
+        que puede variar de una persona a un gran negocio. Los videojuegos comerciales para PC y
+        videoconsolas son normalmente financiados por una distribuidora y tardan varios años en
+        desarrollarse. Los videojuegos independientes pueden tomar menos tiempo y pueden ser producidos a
+        bajo precio por individuos y pequeños desarrolladores. La industria de videojuegos independientes
+        ha visto un aumento en los últimos años
+        con el crecimiento de los nuevos sistemas de distribución en línea y el mercado de juegos para móviles. </string>
+
+    <string name="textcaja">La animación en 3D es un proceso complejo pues trae consigo la realización previa
+        de otros procesos como el diseño y modelado
+        de la imagen a animar. Existen numerosos mecanismos a utilizar para llegar de una forma u otra a comprender los
+        principios de la animación en 3D, para ello debe de existir un bocetado de lo que se quiere hacer, partiendo de ello,
+        se puede realizar una animación adecuada con la herramienta que se utilizará.</string>
+
+    <string name="textespe"> Actualmente, las animaciones se han convertido en un recurso educativo revolucionario para los procesos de enseñanza-aprendizaje, ya que permiten incursionar la presentación de contenidos más innovadores,  creativos y cautivadores.
+
+Así mismo, la variedad de elementos que se puede utilizar en estas, generan una mayor conexión del estudiante con la información y a su vez una experiencia más enriquecedora. </string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="contrasena">Contraseña</string>
+    <string name="Username">Usuario</string>
+    <string name="iniciarsesion">Iniciar Sesión</string>
+
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="usuario">Usuario</string>
+    <string name="insertenombreinstructor">Inserte el nombre del instructor</string>
+    <string name="agregarInstructor">Agregar Instructor</string>
+    <string name="insertecontrasena">Inserte contraseña</string>
+    <string name="inserteusername">Inserte el nombre del usuario</string>
+    <string name="agreagar">Agregar</string>
+    <string name="agregarusuario">Agregar Usuario</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="guardar">Guardar</string>
+    <string name="ingreseicono">Ingrese la URL del Icono</string>
+    <string name="ingresevideo">Ingrese la URL del Video</string>
+    <string name="ingresedescripcion">Ingrese una descripción</string>
+    <string name="ingresenombreP">Ingrese el nombre del programa</string>
+    <string name="nuevaclave">Ingrese la nueva contraseña</string>
+    <string name="insertetelefonoinstructor">Ingresar Teléfono</string>
+    <string name="insertecorreoinstructor">Ingrese correo</string>
+    <string name="agregarinstructor">Agregar Instructor</string>
+    <string name="agregarJornada">Agregar Jornada</string>
+    <string name="nombre">Nombre</string>
+    <string name="horario">Horario</string>
+    <string name="urlIcono">URL del Icono</string>
+    <string name="agregarhorario">Agregar Horario</string>
+    <string name="seleccionerol">Seleccione Rol</string>}
+    <string name="seleccioneJornada">Seleccione Jornada</string>
+    <string name="seleccioneHorario">Seleccione Horario</string>
+    <string name="seleccioneDia">Seleccione Dia</string>
+    <string name="seleccioneHora">Seleccione Hora</string>
+    <string name="seleccioneInstructor">Seleccione Instructor</string>
+    <string name="seleccionePrograma">Seleccione Programa</string>
+    <string name="agregarprograma">Agregar Programa</string>
+    <string name="CAE">Consultar, Actualizar y Eliminar(CAE)</string>
+    <string name="lunes">LUNES</string>
+    <string name="martes">MARTES</string>
+    <string name="miercoles">MIERCOLES</string>
+    <string name="jueves">JUEVES</string>
+    <string name="viernes">VIERNES</string>
+    <string name="sabado">SABADO</string>
+    <string name="sietediez">7:00-10:00</string>
+    <string name="dieztrece">10:00-13:00</string>
+    <string name="sietetrece">7:00-13:00</string>
+    <string name="trecedieciseis">13:00-16:00</string>
+    <string name="dieciseisdiecinueve">16:00-19:00</string>
+    <string name="trecediecinueve">13:00-19:00</string>
+    <string name="diecinueveveniuno">19:00-21:00</string>
+    <string name="ventiunocero">21:00-0:00</string>
+    <string name="diecinuevecero">19:00-0:00</string>
+    <string name="registro">Registro</string>
+    <string name="CAEuser">CAE usuario</string>
+    <string name="caeInstructor">CAE instructor</string>
+    <string name="caeJornada">CAE Jornada</string>
+    <string name="caeprograma">CAE Programa</string>
+    <string name="caehorario">CAE Horario</string>
+    <string name="seleccioneDHora">Seleccione Dia y Hora</string>
+    <string name="numerodeficha">Número de Ficha</string>
+    <string name="instructorlider">Instructor Lider</string>
+    <string name="seleccioneFicha">Seleccione Ficha</string>
+    <string name="seleccioneUser">Seleccione Usuario</string>
+    <string name="agregarficha">Agregar Ficha</string>
+    <string name="agregarFicha">Agregar Ficha</string>
+    <string name="caeFicha">CAE Ficha</string>
+    <string name="cargarCSV">Cargar CSV</string>
+
+
+</resources>
